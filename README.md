@@ -5,7 +5,7 @@ Analyzed a dataset of academic journals to extract thematic trends and model pub
 
 ## 🛠️ Tech Stack & Methodology
 * **Language:** R
-* **Data Engineering & Text Processing:** Utilized libraries like 'dplyr', 'stringr', and 'tm' (or 'tidytext') to clean text, remove stop-words, apply stemming/lemmatization,and generate Document-Term Matrices (DTM).
+* **Data Engineering & Text Processing:** Utilized libraries like `dplyr`, `stringr`, and `tm` (or `tidytext'`) to clean text, remove stop-words, apply stemming/lemmatization,and generate Document-Term Matrices (DTM).
 * **Text Mining Techniques:**
   * Applied **TF-IDF** (Term Frequency-Inverse Document Frequency) to identify the most significant terms across different journal categories.
   * Conducted **Topic Modeling (LDA)** to discover latent themes within the journal publications.
