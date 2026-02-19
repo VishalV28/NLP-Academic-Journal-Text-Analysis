@@ -24,5 +24,5 @@ Analyzed a dataset of academic journals to extract thematic trends and model pub
 ## 📁 Repository Structure
 * `/scripts`: R script containing the full NLP pipeline and statistical models (`Journal Data Analysis.R`).
 * The comprehensive analytical report detailing the methodology and text mining outputs (`Text Mining & Analysis of Academic Journal Data.pdf`).
-* `/data`: *(Note: Dataset withheld or minimized due to size/privacy, but code is fully reproducible).*
+* `/data`: Journal Data csv (`journal_data_CW4`).
   
